@@ -27,6 +27,7 @@ namespace Watermark
 
             try
             {
+                //LicenseHelper.ModifyInMemory_Spire.ActivateMemoryPatching();
                 DirectoryInfo dir = new DirectoryInfo(fileDir);
                 foreach (FileInfo file in dir.GetFiles())
                 {

@@ -10,7 +10,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>Watermark</RootNamespace>
     <AssemblyName>Watermark</AssemblyName>
-    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="LicenseHelper, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\..\..\..\..\Program Files (x86)\e-iceblue\Spire.Office\Bin\NET4.0\LicenseHelper.dll</HintPath>
+    </Reference>
     <Reference Include="Spire.Doc, Version=5.9.23.14040, Culture=neutral, PublicKeyToken=663f351905198cb3">
       <HintPath>..\..\..\..\..\Program Files (x86)\e-iceblue\Spire.Office\Bin\NET4.0\Spire.Doc.dll</HintPath>
     </Reference>
