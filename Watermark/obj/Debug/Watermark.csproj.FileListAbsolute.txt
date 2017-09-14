@@ -1,0 +1,15 @@
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Watermark.exe
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Watermark.pdb
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Doc.dll
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Pdf.dll
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Presentation.dll
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.License.dll
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Microsoft.mshtml.dll
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Doc.xml
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Pdf.xml
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.Presentation.xml
+C:\Users\He\RiderProjects\Watermark\Watermark\bin\Debug\Spire.License.xml
+C:\Users\He\RiderProjects\Watermark\Watermark\obj\Debug\Watermark.csprojResolveAssemblyReference.cache
+C:\Users\He\RiderProjects\Watermark\Watermark\obj\Debug\Watermark.csproj.CoreCompileInputs.cache
+C:\Users\He\RiderProjects\Watermark\Watermark\obj\Debug\Watermark.exe
+C:\Users\He\RiderProjects\Watermark\Watermark\obj\Debug\Watermark.pdb
